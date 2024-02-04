@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Data Science, Python, Dot Net, Angular**
 
-- 📫 How to reach me **akishpothuri@gmail.com**
+- 📫 reach me at **akishpothuri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
