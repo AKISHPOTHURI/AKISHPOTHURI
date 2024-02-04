@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akish Pothuri</h1>
 <h3 align="center">A passionate Full Stack Development and Aspiring Data Scientist from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
 - 💬 Ask me about **Data Science, Python, Dot Net, Angular**
 
 - 📫 How to reach me **akishpothuri@gmail.com**
