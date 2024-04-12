@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 💬 Ask me about **Data Science, Python, Dot Net, Angular**
+- 💬 Ask me about **Python,Data Science,Gen AI, Angular**
 
 - 📫 reach me at **akishpothuri@gmail.com**
 
