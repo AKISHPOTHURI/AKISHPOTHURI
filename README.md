@@ -22,16 +22,17 @@ Skills:
 - GIT
 - Docker
 - CI/CD Pipeline
+  
 Area Of Expertise:
-•	Skilled at collecting, cleaning, and analyzing data to build effective machine learning models.
-•	Proficient in using advanced statistical analysis and modelling techniques to uncover insights from large datasets.
-•	Capable of creating impactful visualizations that clearly communicate findings to stakeholders.
-•	Experienced in developing chatbots with Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to enhance user interactions.
-•	Adept at designing and implementing innovative solutions using Machine Learning, Natural Language Processing (NLP), and Artificial Intelligence (AI).
-•	Familiar with building and deploying machine learning pipelines using AWS SageMaker for scalable and efficient solutions.
-•	Skilled in applying NLP techniques for tasks like text analysis, sentiment analysis, and information retrieval.
-•	Experienced in Time Series Analysis, enabling accurate forecasting and predictive modeling.
-•	Solid understanding of CI/CD and Docker for continuous integration and deployment.  
+- Skilled at collecting, cleaning, and analyzing data to build effective machine learning models.
+- Proficient in using advanced statistical analysis and modelling techniques to uncover insights from large datasets.
+- Capable of creating impactful visualizations that clearly communicate findings to stakeholders.
+- Experienced in developing chatbots with Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to enhance user interactions.
+- Adept at designing and implementing innovative solutions using Machine Learning, Natural Language Processing (NLP), and Artificial Intelligence (AI).
+- Familiar with building and deploying machine learning pipelines using AWS SageMaker for scalable and efficient solutions.
+- Skilled in applying NLP techniques for tasks like text analysis, sentiment analysis, and information retrieval.
+- Experienced in Time Series Analysis, enabling accurate forecasting and predictive modeling.
+- Solid understanding of CI/CD and Docker for continuous integration and deployment.  
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akishpothuri&show_icons=true&locale=en&layout=compact" alt="akishpothuri" /></p>
