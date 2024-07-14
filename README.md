@@ -6,6 +6,8 @@
 - 💬 Ask me about **Python,Data Science,Statistics,Machine Learning,Artificial Intelligence,Gen AI,MLOps,LLMOps**
 
 - 📫 reach me at **akishpothuri@gmail.com**
+- ![image](https://github.com/user-attachments/assets/f3bc4ec6-9af2-4bf4-b0c2-183886fcbc23)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
