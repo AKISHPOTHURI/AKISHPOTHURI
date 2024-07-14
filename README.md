@@ -13,7 +13,7 @@
 </p>
 
 Area Of Expertise: 
-- Machine Learning Algorithms: Supervised, Unsupervised and Reinforcement Algorithms
+- Machine Learning Algorithms: Supervised, Unsupervised, Reinforcement Algorithms and Time Series
 - NLP Algorithms: RNN, LSTM, GRU
 - MLOps
 - Statistics
