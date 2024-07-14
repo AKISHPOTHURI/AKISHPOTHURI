@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/pothuriakish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pothuriakish" height="30" width="40" /></a>
 </p>
 
-Skills: 
+**Skills:**
 - Machine Learning Algorithms: Supervised, Unsupervised, Reinforcement Algorithms and Time Series
 - NLP Algorithms: RNN, LSTM, GRU
 - MLOps
@@ -24,7 +24,7 @@ Skills:
 - Docker
 - CI/CD Pipeline
   
-Area Of Expertise:
+**Area Of Expertise:**
 - Skilled at collecting, cleaning, and analyzing data to build effective machine learning models.
 - Proficient in using advanced statistical analysis and modelling techniques to uncover insights from large datasets.
 - Capable of creating impactful visualizations that clearly communicate findings to stakeholders.
