@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 💬 Ask me about **Python,Data Science,Statistics,Machine Learning,Artificial Intelligence,Gen AI,MLOps,LLMOps**
+- 💬 Ask me about **Python,Data Science,Statistics,Machine Learning,Artificial Intelligence,Gen AI,MLOps**
 
 - 📫 reach me at **akishpothuri@gmail.com**
 - 📄 Know about my experiences (https://drive.google.com/file/d/1OLqSXExfVuvgsJKDyvV5T2aAeJcc6D-A/view?usp=sharing)
